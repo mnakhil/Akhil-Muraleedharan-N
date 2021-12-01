@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akhil Muraleedharan N.
-- 👀 I’m interested Artificial Intelligence, Machine Learing and Data Science.
+- 👀 I’m interested Artificial Intelligence, Machine Learning and Data Science.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on Data Science internships.
 - 📫 How to reach me anakhil6@gmail.com
